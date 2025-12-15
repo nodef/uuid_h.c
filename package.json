@@ -1,0 +1,22 @@
+{
+  "name": "uuid_h.c",
+  "version": "0.1.0",
+  "description": "Single file, STB-style, \"lib\" to generate uuid:s; Fredrik Kihlander (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "uuid",
+    "generate",
+    "stb"
+  ],
+  "homepage": "https://github.com/nodef/uuid_h.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/uuid_h.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/uuid_h.c.git"
+  },
+  "license": "Zlib",
+  "main": "uuid_h.h"
+}
